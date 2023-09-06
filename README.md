@@ -1,2 +1,2 @@
-# reverse7cpp
-REVERSE 7 BUT ON C++ HELL YESSSSSSSSSSSSS.
+## reverse7 on c++
+almost the same features, but better and faster!
